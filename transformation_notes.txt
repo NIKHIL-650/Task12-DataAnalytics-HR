@@ -1,0 +1,6 @@
+1. Removed unnecessary columns
+2. Renamed columns for clarity
+3. Handled missing values
+4. Corrected data types
+5. Created Age Group and Salary Band columns
+6. Built basic visuals
